@@ -1,2 +1,5 @@
-# hamz-store
-Каталог HamzStore (демо)
+# Каталог HamzStore
+
+Сайт: https://xasi88.github.io/hamz-store/
+
+Эту страницу выкладывает скрипт из закрытого проекта. Здесь её не править.
